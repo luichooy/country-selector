@@ -1,6 +1,6 @@
 {
   "name": "vue-country-selector",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A component base on Vue.js for selecting country.",
   "keywords": [
     "country-selector",
@@ -9,18 +9,18 @@
   ],
   "author": "luichoy",
   "license": "MIT",
-  "main": "dist/CountrySelector.common.js",
-  "unpkg": "dist/CountrySelector.umd.js",
-  "style": "dist/CountrySelector.css",
+  "main": "dist/countryselector.common.js",
+  "unpkg": "dist/countryselector.umd.js",
+  "style": "dist/countryselector.css",
   "files": [
     "dist"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/luichooy/CountrySelector"
+    "url": "https://github.com/luichooy/country-selector"
   },
   "bugs": {
-    "url": "https://github.com/luichooy/CountrySelector/issues"
+    "url": "https://github.com/luichooy/country-selector/issues"
   },
   "scripts": {
     "serve": "vue-cli-service serve",
